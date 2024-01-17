@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Paging3Lab</string>
+    <string name="loading_text">Lütfen Bekleyiniz</string>
+    <string name="retry">Tekrar Dene</string>
 </resources>
